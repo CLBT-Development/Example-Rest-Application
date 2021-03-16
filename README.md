@@ -2,3 +2,5 @@
 An Example Rest Application using AWS
 
 Test for commit
+
+Test Message
